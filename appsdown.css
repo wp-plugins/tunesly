@@ -1,0 +1,526 @@
+/** CSS Styles goes here **/
+
+#custom-keyword{
+	display:none;
+}
+
+.tunesly_widget {
+	margin: 0px !important;
+	padding: 0px !important;
+	line-height: 14px !important;
+	font-size: 10px !important;
+	clear: both !important;
+	float: left !important;
+	width: 100% !important;
+	font-family:Arial, Helvetica, sans-serif !important;
+}
+
+.tunesly_widget h3 td { vertical-align: middle !important}
+
+.tunesly_widget h3 {
+	font-size: 12px;
+	font-weight: bold;
+	/* background:#ccc; */
+	/*padding:0px 5px; */
+	font-size: 12px !important;
+	font-weight: bold !important;
+	margin: 0px !important;
+	padding:0px !important;
+	/*background:#ccc !important; */
+	/*padding:9px 0px 0px !important; */
+	/* background:url(repeater.png) left !important; */
+	
+	color:#fff !important;
+	text-shadow:1px 1px #000 !important;
+	/* margin-left:11px !important;
+	 margin-right:11px !important; */
+	font-family:  Helvetica, Arial, sans-serif !important;
+	letter-spacing:1px !important;
+	border:0px !important;
+}
+.tunesly_widget h3 .rightRep {
+	background:url(rightRep.png) left;
+	float:right;
+	height:34px;
+	width:11px;
+	position:relative;
+	margin-right:-11px;
+	margin-top:-9px;
+}
+
+.tunesly_widget h3 .leftImage { width:10px; height:7px; background:url(header_01.png) left top;}
+.tunesly_widget h3 .tableTwo{ height:7px; width:100%; background:#b3b3b3}
+.tunesly_widget h3 .rightImage { width:9px; height:7px;background:url(header_03.png) left top;}
+.tunesly_widget h3 .tableThree{ height:28px; width:10px; background:#b3b3b3}
+.tunesly_widget h3 .tableFour{ background:#b3b3b3; height:auto; width:100%}
+.tunesly_widget h3 .tableFive{ height:28px; width:9px; background:#b3b3b3}
+.tunesly_widget h3 .tableSix{ height:4px; width:4px; background:#b3b3b3}
+.tunesly_widget h3 .tableSeven{ height:4px; width:100%; background:#b3b3b3}
+.tunesly_widget h3 .tableEight{ height:4px; width:9px; background:#b3b3b3}
+
+
+.tunesly_widget h3 .leftRep {
+	background:url(leftRep.png) left;
+	float:left;
+	height:34px;
+	width:11px;
+	position:relative;
+	margin-left:-11px;
+	margin-top:-9px;
+}
+/* footer widget */
+.tunesly_widget .footer {
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px 11px 25px !important;
+	background:#ccc;
+	padding:3px 0px 0px;
+	background:url(repFooter.png) left;
+	height:20px;
+	color:#ccc;
+	text-align:right;
+	
+}
+
+.tunesly_widget .footer a{ color:#ccc; text-decoration:none}
+.tunesly_widget .footer .rightRep {
+	background:url(rightRepFooter.png) left;
+	float:right;
+	height:22px;
+	width:11px;
+	position:relative;
+	margin-right:-11px;
+	margin-top:-3px;
+}
+.tunesly_widget .footer .leftRep {
+	background:url(leftRepFooter.png) left;
+	float:left;
+	height:22px;
+	width:11px;
+	position:relative;
+	margin-left:-11px;
+	margin-top:-3px;
+}
+/* footer widget */
+
+
+.tunesly_widget ul {
+	list-style-type: none !important;
+	border:0px !important;
+	background:none !important;
+	margin:0px !important;
+	padding:0px !important;
+}
+.tunesly_widget ul li {
+	border-bottom:2px dotted #EEE !important;
+	padding:0px !important;
+	list-style:none !important;
+	background:none !important;
+	text-align:center !important;
+}
+.tunesly_widget ul li a {
+	margin:0px !important;
+	line-height:14px !important;
+	padding:0px !important;
+	font-weight:bold !important;
+	color:#333 !important;
+}
+
+.tunesly_widget ul li a:hover {
+	text-decoration:underline !important;
+	color:#606060;
+}
+
+.tunesly_widget div.app-wrapper {
+	line-height: 12px !important;
+	float: left !important;
+	margin: 10px 0px !important;
+	font-size: 11px !important;
+	width: 100% !important;
+}
+.tunesly_widget .image {
+	  float: left !important;
+    margin: 0 10px 0px 5px !important;
+}
+
+.tunesly_widget .image img{  background: none repeat scroll 0 0 #F8F8F8;
+    border: 1px solid #E6E6E6;
+    padding: 5px;}
+	
+	
+.tunesly_widget .text {
+	text-align:left !important;
+	height: 65px !important;
+}
+
+
+.tunesly_widget .text .bgSelect {
+	
+	cursor: pointer !important;
+	float: left !important;
+	font-size: 11px !important;
+	height: 11px !important;
+	
+}
+.tunesly_widget .text .bgSelectLeft { background:url(bgSelectLeft.png) no-repeat; width:7px; height:15px; float:left}
+
+.tunesly_widget .text .bgSelectRep{ background:url(bgSelectRep.png) repeat-x; width:auto; height:13px; padding:1px 5px; float:left}
+.tunesly_widget .text .bgSelectRight { background:url(bgSelectRight.png) no-repeat; width:3px; height:15px; float:left}
+
+.tunesly_widget .text .bgSelectScroll{ background:url(bgSelectScroll.png) no-repeat; width:17px; height:15px; float:left}
+
+.tunesly_widget a.app-title {
+	vertical-align: top !important;
+ color:#333 !important font-size:12px !important;
+}
+.tunesly_widget a.app-artist {
+	vertical-align: top !important;
+	color: #AAAAAA !important;
+	font-weight: normal !important;
+	white-space: wrap !important;
+}
+.tunesly_widget a.app-price {
+	color: #000000;
+	font-weight: normal !important;
+	white-space: nowrap !important;
+}
+.appsdown-dynamic-search {
+	margin: 0px 10px 10px 0px !important;
+	padding: 0px !important;
+	line-height: 14px !important;
+	font-size: 10px !important;
+	clear: both !important;
+	float: left !important;
+	width: 100% !important;
+	font-family:Arial, Helvetica, sans-serif !important;
+}
+.appsdown-dynamic-search .h3This {
+	font-size: 12px !important;
+	font-weight: bold !important;
+	margin: 0px!important;
+	background:#ccc !important;
+	padding:11px 0px 0px !important;
+	background:url(repeater.png) left !important;
+	height:23px !important;
+	color:#fff !important;
+	text-shadow:1px 1px #000 !important;
+	margin-left:11px !important;
+	margin-right:11px !important;
+	font-family:  Helvetica, Arial, sans-serif !important;
+	text-transform:uppercase !important;
+	letter-spacing:1px !important;
+}
+.appsdown-dynamic-search table {
+	border:1px solid #d9d9d9 !important;
+	background:#fbfbfb;
+	width:100% !important;
+	padding:0px !important;
+	margin:0px !important;
+}
+.entry-content table, .comment-content table {
+	margin:0px !important;
+}
+
+
+
+
+.appsdown-dynamic-search .h3This .rightRep {
+	background:url(rightRep.png) left;
+	float:right;
+	height:34px;
+	width:11px;
+	position:relative;
+	margin-right:-11px;
+	margin-top:-11px;
+}
+.appsdown-dynamic-search .h3This .leftRep {
+	background:url(leftRep.png) left;
+	float:left;
+	height:34px;
+	width:11px;
+	position:relative;
+	margin-left:-11px;
+	margin-top:-11px;
+}
+.appsdown-dynamic-search .footer {
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0px;
+	background:#ccc;
+	padding:3px 0px 0px;
+	background:url(repFooter.png) left;
+	height:20px;
+	color:#ccc;
+	margin-left:11px;
+	margin-right:11px;
+	text-align:right;
+}
+
+.appsdown-dynamic-search .footer a{color:#ccc; text-decoration:none}
+.appsdown-dynamic-search .footer .rightRep {
+	background:url(rightRepFooter.png) left;
+	float:right;
+	height:22px;
+	width:11px;
+	position:relative;
+	margin-right:-11px;
+	margin-top:-3px;
+}
+.appsdown-dynamic-search .footer .leftRep {
+	background:url(leftRepFooter.png) left;
+	float:left;
+	height:22px;
+	width:11px;
+	position:relative;
+	margin-left:-11px;
+	margin-top:-3px;
+}
+.clearB {
+	clear:both
+}
+.appsdown-dynamic-search table, .appsdown-dynamic-search td {
+	border: 0px;
+}
+.appsdown-dynamic-search td {
+	padding: 12px 3px !important;
+	text-align: center !important;
+	vertical-align: top !important;
+
+}
+.appsdown-dynamic-search td img {
+	margin-right: 3px !important;
+}
+.appsdown-dynamic-search td a {
+	color: #333333 !important;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none !important;
+	word-wrap: break-word !important;
+}
+.appsdown-dynamic-search td a:hover {
+	text-decoration:underline !important;
+}
+.appsdown-dynamic-search td span {
+	color:#7f7f7f !important;
+	font-size:12px !important
+}
+.appsdown-dynamic-search .thumbImage {
+	float: left !important;
+	margin: 0 5px !important;
+	width:77px;
+	
+}
+.appsdown-dynamic-search .txt {
+	text-align: left !important;
+	width: auto;
+	height: 65px;
+	margin-left:6px;
+	
+}
+
+
+
+
+.appsdown-dynamic-search .txt .bgSelect {
+	
+	cursor: pointer !important;
+	float: left !important;
+	font-size: 11px !important;
+	height: 11px !important;
+	
+}
+.appsdown-dynamic-search .txt .bgSelectLeft { background:url(bgSelectLeft.png) no-repeat; width:7px; height:15px; float:left}
+
+.appsdown-dynamic-search .txt .bgSelectRep{ background:url(bgSelectRep.png) repeat-x; width:auto; height:13px; padding:1px 5px; float:left}
+.appsdown-dynamic-search .txt .bgSelectRight { background:url(bgSelectRight.png) no-repeat; width:3px; height:15px; float:left}
+
+.appsdown-dynamic-search .txt .bgSelectScroll{ background:url(bgSelectScroll.png) no-repeat; width:17px; height:15px; float:left}
+
+
+
+#appsDown_store_result_item, #appsDown_result_column, #appsDown_linkshare_advertiser_id, #appsDown_linkshare_generate_timeout {
+	width: 100px;
+}
+img.help_icon {
+	vertical-align: middle;
+	border: 0px;
+}
+#JT_close_left, #JT_close_right {
+	font-size: 1.1em;
+}
+#JT_copy p, #JT_copy ul {
+	font-size: 1.1em;
+}
+#JT_arrow_left {
+	background-image: url("arrow_left.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	height: 23px;
+	left: -12px;
+	position: absolute;
+	top: -3px;
+	width: 10px;
+	z-index: 101;
+}
+#JT_arrow_right {
+	background-image: url("arrow_right.gif");
+	background-position: left top;
+	background-repeat: no-repeat;
+	height: 23px;
+	position: absolute;
+	top: -2px;
+	width: 11px;
+	z-index: 101;
+}
+#JT {
+	background-color: #FFFFFF;
+	border: 2px solid #CCCCCC;
+	position: absolute;
+	z-index: 100;
+	font-size: 11px;
+}
+#JT_copy {
+	color: #333333;
+	padding: 10px;
+}
+.JT_loader {
+	background-image: url("loader.gif");
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 12px;
+	width: 100%;
+}
+#JT_close_left {
+	background-color: #CCCCCC;
+	font-weight: bold;
+	padding-bottom: 5px;
+	padding-left: 8px;
+	padding-top: 2px;
+	text-align: left;
+}
+#JT_close_right {
+	background-color: #CCCCCC;
+	font-weight: bold;
+	padding-bottom: 5px;
+	padding-left: 8px;
+	padding-top: 2px;
+	text-align: left;
+}
+#JT_copy p {
+	margin: 3px 0;
+}
+#JT_copy img {
+	border: 1px solid #CCCCCC;
+	padding: 1px;
+}
+.jTip {
+	cursor: help;
+}
+.vertical_top {
+	vertical-align: top;
+	border: 0px;
+}
+
+#TuneslyDialog {
+	padding: 10px;
+}
+
+#TuneslyDialog ul li {
+	line-height: 200% !important;
+}
+
+#TuneslyDialog input[checkbox] {
+	vertical-align: middle;
+}
+
+#TuneslyDialog ul.tunesly-options {
+	margin-left: 18px;
+	font-size:11px;
+}
+
+#error_message {
+	color: #FF0000;
+}
+
+.popupbox {
+	display: none;
+	padding: 8px 5px 5px 10px;
+	position: absolute; 
+	background: none repeat scroll 0% 0% rgb(255, 255, 255); 
+	margin-top: 15px; 
+	margin-left: 100px; 
+	width: 120px;
+	box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.49);
+    -moz-box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.49);
+    -webkit-box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.49);
+    -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #EFEFEF;
+	z-index: 1000;
+	font-weight:bold;
+
+}
+
+
+.popupbox a:hover {	color:#606060 !important;}
+.post_popupbox {
+	margin-left: 10px;
+}
+
+.box_shadow{
+    margin: auto;
+    background: #ccc;
+    border: 2px solid #EEEEEE !important;
+    position:relative;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.49);
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.49);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.49);
+}
+
+.box_shadow_minwidth_shortcode {
+	width: 60px;
+    min-width: 60px;
+    min-height: 60px;
+}
+
+.border_radius {
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	border-radius: 12px;
+}
+
+.ui-dialog-title { color:#333 !important}
+.wp-dialog .ui-dialog-titlebar-close span { display:none !important}
+.wp-dialog .ui-dialog-titlebar-close {
+	/*top:14px !important; */
+ 
+}
+.wp-dialog .ui-dialog-titlebar-close:hover {
+    background: url("buttons.gif") no-repeat scroll -87px -16px transparent;
+    height: 16px;
+    padding: 0;
+    position: absolute;
+    right: 6px;
+    width: 29px;
+}
+
+#TuneslyDialog ul li .tooltipSet { background: url("questionMark.png") no-repeat; width:21px; height:21px; float:right; padding-right:70px; padding-top:2px; cursor:help} 
+#TuneslyDialog ul li .tooltipSet2 { background: url("questionMark.png") no-repeat; width:21px; height:21px; float:right; padding-right:120px; padding-top:2px; cursor:help} 
+#TuneslyDialog .tab {border-bottom:1px solid #ccc; margin-bottom:10px}
+#TuneslyDialog .tab-link{background:#ebebeb;float:right; padding:5px;font-size:11px;cursor:pointer}
+#TuneslyDialog .tab .tab-right{margin:0px 0px 0px 5px}
+#TuneslyDialog .tab .tab-selected{background:#ccc}
+#TuneslyDialog #tab-search{display:none}
+#TuneslyDialog #search-result{height:250px;overflow-x:scroll}
+
+
+
+
+
+
+
+
+
+
+
