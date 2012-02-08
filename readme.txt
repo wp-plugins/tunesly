@@ -14,7 +14,7 @@ Tunesly is a free iTunes affiliate link posting and sidebar widget plugin. Tunes
 <strong>Promote All iTunes Content Categories</strong><br />
 Generate links across all iTunes available content categories:
 
-The iOS Appstore | The Mac Appstore iTunes Music iTunes Video iTunes Music Videos iTunes TV Shows iTunes Podcasts iBookstore
+The iOS Appstore | The Mac Appstore | iTunes Music | iTunes Video | iTunes Music Videos | iTunes TV Shows | iTunes Podcasts | iBookstore
 
 <strong>Support for Linkshare Affiliates</strong><br />
 Insert your Linkshare Affiliate ID and earn up to 5% per sale. If you are not an iTunes Affiliate sign up for free at the LinkShare Affiliate Program page and start making money with your WordPress blog!
