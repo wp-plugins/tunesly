@@ -12,8 +12,7 @@ Tunesly is a free iTunes affiliate link posting and sidebar widget plugin.
 Tunesly is a free iTunes affiliate link posting and sidebar widget plugin. Tunesly will automatically generate and display iTunes content using your LinkShare affiliate link ID inside posts relating to keywords in your post title or sidebar widget. If you are a LinkShare iTunes affiliate, you can earn up to 5% of every sale.
 
 For more information, visit us at <a href="http://www.tuneslyhq.com" target="_blank">http://www.tuneslyhq.com</a>
-
-Tunesly Feedback and Support Forum:  <a href="http://www.tuneslyhq.com" target="_blank">http://tunesly.uservoice.com/</a>
+Tunesly Feedback and Support Forum:  <a href="http://tunesly.uservoice.com/" target="_blank">http://tunesly.uservoice.com/</a>
 
 <strong>Promote All iTunes Content Categories</strong><br />
 Generate links across all iTunes available content categories:
